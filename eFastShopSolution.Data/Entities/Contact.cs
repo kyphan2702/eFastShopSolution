@@ -7,15 +7,13 @@ using System.Threading.Tasks;
 
 namespace eFastShopSolution.Data.Entities
 {
-    public class Category
+    public class Contact
     {
         public int Id { get; set; }
-        public int SortOrder { get; set; }
-        public bool IsShowOnHome { get; set; }
-        public int? ParentId { get; set; }
+        public string Name { get; set; }
+        public string Email { get; set; }
+        public string PhoneNumber { get; set; }
+        public string Message { get; set; }
         public Status Status { get; set; }
-
-        public List<ProductInCategory> ProductInCategories { get; set; }
-
     }
 }
