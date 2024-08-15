@@ -8,9 +8,12 @@
 - Microsoft.EntityFrameworkCore.Tools
 ## Youtube tutorial
 - https://youtu.be/ImYt340wQxE?si=s6oNzz7JuCspfI45
-## Before build this project we should install:
+## Truoc khi lam nho cai dat cac phan mem sau:
 - Visual Studio 2022
 - Nodejs
 - Microsoft SQL
 - .NET Core SKD 8
 - updating...
+
+## Cach thuc ket noi:
+- Fluent API Entity Framework Code first

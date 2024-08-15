@@ -5,9 +5,9 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eFastShopSolution.WebApp", "eFastShopSolution.WebApp\eFastShopSolution.WebApp.csproj", "{4F678B2C-A958-4173-BF4C-8DF10613D6E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eFastShopSolution.Data", "eFastShopSolution.Data\eFastShopSolution.Data.csproj", "{4577EDCB-F3BC-4BA9-8431-2A044F126D91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eFastShopSolution.Data", "eFastShopSolution.Data\eFastShopSolution.Data.csproj", "{4577EDCB-F3BC-4BA9-8431-2A044F126D91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eFastShopSolution.Application", "eFastShopSolution.Application\eFastShopSolution.Application.csproj", "{3F568204-2C18-4167-9726-2D334736E7AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eFastShopSolution.Application", "eFastShopSolution.Application\eFastShopSolution.Application.csproj", "{3F568204-2C18-4167-9726-2D334736E7AA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1DAF557A-C2EF-407F-96E5-2E89ADBF7653}"
 	ProjectSection(SolutionItems) = preProject
